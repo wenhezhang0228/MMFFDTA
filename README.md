@@ -6,3 +6,7 @@
 **Results:** Experimental results demonstrate that MMFFDTA outperforms state-of-the-art methods in predicting DTIs, achieving a root mean square error (RMSE) of $1.2689$ and a Pearson correlation coefficient (PCORR) of $0.7885$ on the PDBbind-KIKD dataset. Visualization analysis further reveals the model's ability to identify key binding residues and drug substructures, highlighting its potential in accelerating protein-binding site discovery and drug repurposing.
 
 **Conclusion:** The MMFFDTA prediction model significantly improves the prediction performance of protein-ligand binding interactions by integrating amino acid sequence and 3D structural information of proteins.
+
+## Overview
+
+![img](overview.png)
